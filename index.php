@@ -1,5 +1,5 @@
 <?php
 
-	echo 'Hello Amazon EC2';
+	echo 'Hello Amazon EC2 AMI Instance';
 
 ?>
