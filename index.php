@@ -1,7 +1,7 @@
 <?php
 
 	echo '<p>';
-	echo 'Hello Amazon OpsWorks';
+	echo 'Hello Amazon OpsWorks Part Deux';
 	echo '</p>';
 
 ?>
