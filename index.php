@@ -1,7 +1,7 @@
 <?php
 
 	echo '<p>';
-	echo 'Hello Amazon EC2 AMI Instance';
+	echo 'Hello Amazon OpsWorks';
 	echo '</p>';
 
 ?>
